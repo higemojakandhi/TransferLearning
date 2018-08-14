@@ -7,4 +7,4 @@ Used VGG Network & its learnt weight to transfer learning to classify an additio
 
  
 ## loss
-![loss](result/log.png)
+![loss](result/loss.png)
